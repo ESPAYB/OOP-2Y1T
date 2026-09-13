@@ -1,0 +1,36 @@
+package com.mycompany;
+/*
+ Gene Andrei B. HIlario TA21
+ */
+
+import java.util.Scanner;
+
+public class EmployeePayrollRecord {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        
+        System.out.println("Enter Employee Name: ");
+        String empName = input.nextLine();
+        
+        System.out.println("Enter Employee ID: ");
+        String empID = input.nextLine();
+        
+        System.out.println("Enter Position: ");
+        String position = input.nextLine();
+        
+        System.out.println("Enter Hours worked: ");
+        double workHours = input.nextDouble();
+               
+        System.out.println("Enter Hourly rate: ");
+        double hourlyrate = input.nextDouble();
+        
+         System.out.println("-----EMPLOYEE PAYROLL RECORD------");
+        System.out.println("Employee Name: " +empName);
+        System.out.println("Employee ID : " + empID);
+        System.out.println("Position: "+ position);
+        System.out.println("Hours worked: " +workHours);
+        System.out.println("Hourly rate: "+ hourlyrate );
+         
+        input.close();
+    }
+}
