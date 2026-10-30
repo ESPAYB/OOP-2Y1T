@@ -1,0 +1,59 @@
+CampusConnect Service Requests
+
+Request 1 of 5
+Student ID: This field is required. Please try again.
+Student ID: Student name: Category (ENROLLMENT, DOCUMENT, PAYMENT, ADVISING): Choose ENROLLMENT, DOCUMENT, PAYMENT, or ADVISING.
+Category (ENROLLMENT, DOCUMENT, PAYMENT, ADVISING): Priority (1-5): Short concern: --- Ticket 1 ---
+Student ID: 2026-001
+Student name: Ada Reyes
+Category: ENROLLMENT
+Priority: 5
+Concern: Enrollment confirmation
+Estimated completion: 2 working day(s)
+
+Request 2 of 5
+Student ID: Student name: Category (ENROLLMENT, DOCUMENT, PAYMENT, ADVISING): Priority (1-5): Enter a whole number from 1 to 5.
+Priority (1-5): Enter a whole number from 1 to 5.
+Priority (1-5): Enter a whole number from 1 to 5.
+Priority (1-5): Short concern: --- Ticket 2 ---
+Student ID: 2026-002
+Student name: Ben Cruz
+Category: DOCUMENT
+Priority: 1
+Concern: Request transcript
+Estimated completion: 2 working day(s)
+
+Request 3 of 5
+Student ID: Student name: Category (ENROLLMENT, DOCUMENT, PAYMENT, ADVISING): Priority (1-5): Short concern: --- Ticket 3 ---
+Student ID: 2026-003
+Student name: Cia Santos
+Category: PAYMENT
+Priority: 5
+Concern: Verify payment
+Estimated completion: 1 working day(s)
+
+Request 4 of 5
+Student ID: Student name: Category (ENROLLMENT, DOCUMENT, PAYMENT, ADVISING): Priority (1-5): Short concern: --- Ticket 4 ---
+Student ID: 2026-004
+Student name: Dan Lim
+Category: ADVISING
+Priority: 3
+Concern: Plan classes
+Estimated completion: 4 working day(s)
+
+Request 5 of 5
+Student ID: Student name: Category (ENROLLMENT, DOCUMENT, PAYMENT, ADVISING): Priority (1-5): Short concern: --- Ticket 5 ---
+Student ID: 2026-005
+Student name: Eli Tan
+Category: ADVISING
+Priority: 5
+Concern: Request certificate
+Estimated completion: 3 working day(s)
+
+--- Summary ---
+ENROLLMENT: 1
+DOCUMENT: 1
+PAYMENT: 1
+ADVISING: 2
+Highest priority: Ticket 1 - Ada Reyes (2026-001), priority 5
+Average estimated days: 2.40
